@@ -8,4 +8,7 @@ A simple [web form](PapaBobsBlank.PNG) collects the requested size, crust and to
 A [GridView](OrderManagement.aspx.PNG) of pizzas waiting to be made is available for the workers, and they removed form list when "Completed" is checked.
 At this time, only one pizza can be ordered at once.
 
-This was the most challenging assignment yet, and took me several tries to get it right. I named things too similarly and would confuse myself, but as in other projects, the VS I just noticed some typos as I was writing up this readme. 
+This was the most challenging assignment yet, and took me several tries to get it right. I named things too similarly and would confuse myself. 
+
+TODO: 
+fix typos
